@@ -1,3 +1,7 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+<channels>
 </channels>
 <channel>
 <name>[COLOR blue][B] FILMES DIVERSOS [/B][/COLOR]</name>
